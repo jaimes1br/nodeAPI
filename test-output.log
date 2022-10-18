@@ -1,0 +1,8 @@
+● Validation Error:
+
+  Module ./global-kill.js in the globalTeardown option was not found.
+         <rootDir> is: C:\Users\brandon.jaimes\Downloads\nodeCourse
+
+  Configuration Documentation:
+  https://jestjs.io/docs/configuration
+
